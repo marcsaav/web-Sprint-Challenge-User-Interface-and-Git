@@ -81,6 +81,7 @@ header nav {
     align-items:baseline;
 }
 
+
 header nav a {
     text-align:center;
     color:black;
@@ -217,4 +218,43 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+/* About Page */
+
+.top-about {
+    margin-bottom:4%;
+    border-bottom: 1px dashed black;
+}
+
+.top-about h2, p {
+    margin:0 2% 2%;
+}
+
+.mid-section {
+    display:flex;
+    justify-content: space-between;
+}
+
+.mid-container {
+    margin-bottom:4%;
+    width:48%;
+    padding:2%;
+    border-bottom: 1px dashed black;
+}
+
+.mid-container h2 {
+    margin-top:2%;
+}
+
+.mid-container p {
+    margin-bottom:6%;
+}
+
+ .mid-container a {
+    margin:2% 0 20%;
+    border:1px solid black;
+    padding:2%;
+    border-radius:10px;
+    text-decoration:none;
 }
