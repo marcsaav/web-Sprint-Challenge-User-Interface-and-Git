@@ -221,6 +221,7 @@ footer nav a {
 }
 
 /* About Page */
+/* Top */
 
 .top-about {
     margin-bottom:4%;
@@ -230,6 +231,7 @@ footer nav a {
 .top-about h2, p {
     margin:0 2% 2%;
 }
+/* Middle */
 
 .mid-section {
     display:flex;
